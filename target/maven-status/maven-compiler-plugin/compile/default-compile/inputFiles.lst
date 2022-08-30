@@ -1,0 +1,8 @@
+D:\Backend_Workspace\cdc-test-example\src\main\java\com\example\cdctestexample\config\WebClientConfig.java
+D:\Backend_Workspace\cdc-test-example\src\main\java\com\example\cdctestexample\model\Connector.java
+D:\Backend_Workspace\cdc-test-example\src\main\java\com\example\cdctestexample\model\CreateKafkaConnector.java
+D:\Backend_Workspace\cdc-test-example\src\main\java\com\example\cdctestexample\model\Task.java
+D:\Backend_Workspace\cdc-test-example\src\main\java\com\example\cdctestexample\controller\DebeziumConnectorApi.java
+D:\Backend_Workspace\cdc-test-example\src\main\java\com\example\cdctestexample\CdcTestExampleApplication.java
+D:\Backend_Workspace\cdc-test-example\src\main\java\com\example\cdctestexample\model\Config.java
+D:\Backend_Workspace\cdc-test-example\src\main\java\com\example\cdctestexample\client\KafkaConnectWebClient.java

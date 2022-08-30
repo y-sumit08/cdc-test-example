@@ -1,0 +1,8 @@
+com\example\cdctestexample\model\Connector.class
+com\example\cdctestexample\model\Task.class
+com\example\cdctestexample\model\Config.class
+com\example\cdctestexample\client\KafkaConnectWebClient.class
+com\example\cdctestexample\config\WebClientConfig.class
+com\example\cdctestexample\controller\DebeziumConnectorApi.class
+com\example\cdctestexample\model\CreateKafkaConnector.class
+com\example\cdctestexample\CdcTestExampleApplication.class
